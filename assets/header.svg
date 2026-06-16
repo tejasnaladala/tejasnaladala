@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Tejas Naladala — Hardware Engineer, AI Builder, Researcher">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Tejas Naladala — Plasma Hardware, AI/ML, Research">
   <defs>
     <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
@@ -26,10 +26,10 @@
 
   <rect width="1200" height="300" rx="14" fill="#0a0c10"/>
 
-  <text class="k" x="71" y="104" font-size="13.5" font-weight="500" letter-spacing="4.5" fill="#ffffff" fill-opacity="0.5">HARDWARE ENGINEER&#160;&#160;·&#160;&#160;AI BUILDER&#160;&#160;·&#160;&#160;RESEARCHER</text>
+  <text class="k" x="71" y="104" font-size="13.5" font-weight="500" letter-spacing="4.5" fill="#ffffff" fill-opacity="0.5">PLASMA HARDWARE&#160;&#160;·&#160;&#160;AI / ML&#160;&#160;·&#160;&#160;RESEARCH</text>
   <text class="nm" x="70" y="180" font-size="76" font-weight="700" letter-spacing="-0.5" fill="#ffffff">Tejas Naladala</text>
   <g clip-path="url(#nameclip)">
     <rect class="sheen" x="0" y="112" width="170" height="92" fill="url(#sheen)"/>
   </g>
-  <text class="ds" x="71" y="236" font-size="16.5" font-weight="400" fill="#ffffff" fill-opacity="0.42">Autonomous research engines and verification for AI.&#160;&#160;Plasma hardware for agriculture.</text>
+  <text class="ds" x="71" y="236" font-size="16.5" font-weight="400" fill="#ffffff" fill-opacity="0.42">Plasma systems for agriculture.&#160;&#160;AI research and verification on the side.</text>
 </svg>

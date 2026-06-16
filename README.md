@@ -10,9 +10,9 @@
   <a href="mailto:naladala@uw.edu">naladala@uw.edu</a>
 </p>
 
-I build hardware and AI systems, and I care more than is healthy about whether they actually do what I claim they do.
+I'm a hardware engineer. Most of what I do is plasma systems for agriculture: chemical-free treatment of crops and water, built from the high-voltage power electronics up. Three peer-reviewed papers behind it so far (35 citations, h-index 3).
 
-Most of what I build now is autonomous research engines and verification pipelines, pointed at one question: how do you tell a real result from a lucky one? ECE and Applied Math at the University of Washington.
+The AI and software side is secondary, even if it fills most of this GitHub: autonomous research engines and verification pipelines, built around a question I keep coming back to. How do you tell a real result from a lucky one? ECE and Applied Math at the University of Washington.
 
 ## Selected work
 
@@ -33,10 +33,6 @@ The throughline across most of these is pre-registration: write the hypothesis a
 [**mimic**](https://github.com/tejasnaladala/mimic) lets you teach a robot from a browser tab: WebRTC teleoperation into a simulated 7-DOF Franka arm, demo recording, training for an Action Chunking Transformer or a diffusion policy, and ONNX export.
 
 Also public: [parameter-golf](https://github.com/tejasnaladala/parameter-golf) (a sweep-and-select harness for small-LM training competitions), [wireml](https://github.com/tejasnaladala/wireml) (a node-graph workbench for foundation models that runs in the browser on WebGPU), [knowledge-engine](https://github.com/tejasnaladala/knowledge-engine), and [icordion](https://github.com/tejasnaladala/icordion) (an iPhone turned into a playable accordion through its accelerometer).
-
-## Hardware
-
-I also build plasma hardware for agriculture: chemical-free, plasma-activated water treatment, down to the high-voltage power electronics and embedded control behind it. The research has produced three peer-reviewed papers (35 citations, h-index 3).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasnaladala/tejasnaladala/output/github-snake-dark.svg"/>
