@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tejas Naladala — Hardware Engineer, AI Builder, Founder" width="100%"/>
+  <img src="./assets/header.svg" alt="Tejas Naladala — Hardware Engineer, AI Builder, Researcher" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 I build hardware and AI systems, and I care more than is healthy about whether they actually do what I claim they do.
 
-Before college I shipped industrial plasma reactors and founded a company around them. Now I build autonomous research engines and verification pipelines, mostly pointed at one question: how do you tell a real result from a lucky one? ECE and Applied Math at the University of Washington.
+Most of what I build now is autonomous research engines and verification pipelines, pointed at one question: how do you tell a real result from a lucky one? ECE and Applied Math at the University of Washington.
 
 ## Selected work
 
@@ -34,9 +34,9 @@ The throughline across most of these is pre-registration: write the hypothesis a
 
 Also public: [parameter-golf](https://github.com/tejasnaladala/parameter-golf) (a sweep-and-select harness for small-LM training competitions), [wireml](https://github.com/tejasnaladala/wireml) (a node-graph workbench for foundation models that runs in the browser on WebGPU), [knowledge-engine](https://github.com/tejasnaladala/knowledge-engine), and [icordion](https://github.com/tejasnaladala/icordion) (an iPhone turned into a playable accordion through its accelerometer).
 
-## Before software
+## Hardware
 
-I founded PlasmaX at 16. It is a continuous industrial system that disinfects post-harvest produce with plasma-activated water, no chemicals, at roughly a quarter the cost of chlorine. I designed the 18 kV flyback driver and the STM32 control loop, and the first production unit sold to CSIR-CFTRI in India. The work produced three peer-reviewed papers on plasma-activated water (35 citations, h-index 3).
+I also build plasma hardware for agriculture: chemical-free, plasma-activated water treatment, down to the high-voltage power electronics and embedded control behind it. The research has produced three peer-reviewed papers (35 citations, h-index 3).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasnaladala/tejasnaladala/output/github-snake-dark.svg"/>
