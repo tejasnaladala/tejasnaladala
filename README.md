@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://tejasnaladala.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Hardware+engineer+%2B+AI+systems+builder;Founded+PlasmaX+at+16+%E2%80%94+plasma+reactors;Now%3A+autonomous+research+engines+%2B+AI+verification;Pre-register+the+hypothesis%2C+then+report+what+happened" alt="what I do"/></a>
-</p>
-
-<p align="center">
-  <a href="https://tejasnaladala.com"><img src="https://img.shields.io/badge/Website-tejasnaladala.com-22d3ee?style=flat-square&logo=safari&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://linkedin.com/in/tejasnaladala"><img src="https://img.shields.io/badge/LinkedIn-tejasnaladala-b15cff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  <a href="mailto:naladala@uw.edu"><img src="https://img.shields.io/badge/Email-naladala@uw.edu-ff3d81?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://tejasnaladala.com">tejasnaladala.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/tejasnaladala">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:naladala@uw.edu">naladala@uw.edu</a>
 </p>
 
 I build hardware and AI systems, and I care more than is healthy about whether they actually do what I claim they do.
@@ -40,15 +38,10 @@ Also public: [parameter-golf](https://github.com/tejasnaladala/parameter-golf) (
 
 I founded PlasmaX at 16. It is a continuous industrial system that disinfects post-harvest produce with plasma-activated water, no chemicals, at roughly a quarter the cost of chlorine. I designed the 18 kV flyback driver and the STM32 control loop, and the first production unit sold to CSIR-CFTRI in India. The work produced three peer-reviewed papers on plasma-activated water (35 citations, h-index 3).
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejasnaladala&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3d81&icon_color=22d3ee&text_color=c9d1d9&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnaladala&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff3d81&text_color=c9d1d9"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasnaladala/tejasnaladala/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejasnaladala/tejasnaladala/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/tejasnaladala/tejasnaladala/output/github-snake-dark.svg"/>
+  <img alt="My contribution graph, traced by a snake" src="https://raw.githubusercontent.com/tejasnaladala/tejasnaladala/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 ## Elsewhere
