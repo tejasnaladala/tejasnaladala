@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/binary-boot.svg" alt="Binary portrait of Tejas Naladala booting into view" width="272" />
+  <img src="./assets/binary-boot.gif" alt="Binary portrait of Tejas Naladala booting into view" width="272" />
 </p>
 
 <h1 align="center">Tejas Naladala</h1>
