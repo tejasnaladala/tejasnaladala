@@ -18,8 +18,6 @@
   <a href="https://scholar.google.com/citations?user=7901XFQAAAAJ">Google Scholar</a>
 </p>
 
-I'm 19.
-
 I grew up around a family farm in a small coastal village in South India, where crops, chemicals, machines, and money were never abstract. Now I study Engineering at the [University of Washington](https://www.washington.edu/).
 
 ## Answers I found
@@ -28,9 +26,9 @@ I grew up around a family farm in a small coastal village in South India, where 
 
 *Can you choose an embedding model for a corpus that has no human relevance labels?*
 
-MTEB-Gym turns a corpus into synthetic queries, compares retrieved results in both presentation orders, and fits a Bradley-Terry ranking with bootstrap intervals. Across 16 retrieval datasets, the harder problem was not producing a ranking; it was knowing when the judge and the generated task were trustworthy. Weak queries and task-definition mismatch did more damage than the rating model.
+MTEB-Gym turns a corpus into synthetic queries, compares retrieved results in both presentation orders, and fits a Bradley-Terry ranking with bootstrap intervals.
 
-I co-developed the reliability study and contributed [nine merged changes](https://github.com/embeddings-benchmark/MTEB-gym-v2/pulls?q=is%3Apr+author%3Atejasnaladala+is%3Amerged) spanning validation, uncertainty estimation, caching, deterministic parallelism, and failure handling.
+My public work covers validation, uncertainty estimates, caching, deterministic parallelism, and failure handling across [nine merged changes](https://github.com/embeddings-benchmark/MTEB-gym-v2/pulls?q=is%3Apr+author%3Atejasnaladala+is%3Amerged).
 
 ### [AgentBreed](https://github.com/tejasnaladala/agentbreed)
 
@@ -39,14 +37,6 @@ I co-developed the reliability study and contributed [nine merged changes](https
 In a preregistered deterministic pilot, 700 evaluations across three domains found that multi-component search beat prompt-only search by a wide margin. Within that richer space, evolution, mutation-only, crossover-only, random search, and Bayesian optimization were statistically indistinguishable after correction.
 
 The repository includes the tested optimization library, all reproduction paths, and the locked design for a real-LLM replication. The current answer applies to the synthetic pilot; the real-model study remains to be run.
-
-### [Procedural-Maze RL Baselines](https://github.com/tejasnaladala/maze-rl-baselines)
-
-*Why can a five-line policy solve a maze that reward-driven agents cannot?*
-
-On unseen 9x9 mazes, an egocentric wall follower reached 100% success and behavior cloning reached 97.2%. PPO, DQN, and A2C did not reliably discover the same policy; even a DQN initialized from the cloned policy fell back toward scratch performance during fine-tuning.
-
-The result is backed by 4,200+ raw run records, 20+ seeds per headline cell, code hashes, a SHA-256-pinned manifest, and a verifier that recomputes every reported number.
 
 ### [Connectome Architecture Benchmark](https://github.com/tejasnaladala/connectome-bpu)
 
@@ -78,7 +68,7 @@ This began during fifteen days aboard R/V *Roger Revelle*, across 18 ROV Jason d
 
 ## Published work
 
-Three peer-reviewed plasma-engineering papers, 57 citations, and an h-index of 3. The papers and current manuscripts live on [Google Scholar](https://scholar.google.com/citations?user=7901XFQAAAAJ); the machines, fieldwork, and less GitHub-shaped parts live on [my website](https://tejasnaladala.com/work).
+Three peer-reviewed plasma-engineering papers. As of September 2026, [Google Scholar](https://scholar.google.com/citations?user=7901XFQAAAAJ) records 57 citations and an h-index of 3. The machines, fieldwork, and less GitHub-shaped parts live on [my website](https://tejasnaladala.com/work).
 
 For the person behind all of it, read [about](https://tejasnaladala.com/about). For questionable decisions, read ["Un"Supervised](https://tejasnaladala.com/blog).
 
